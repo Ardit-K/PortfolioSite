@@ -36,9 +36,12 @@ export const Navbar = () => {
             </a>
 
             {/* Desktop Nav */}
-            <div>
+            <div className="hidden md:flex space-x-8">
                 {navItems.map((item, key) => (
-                    <a>{item.name}</a>
+                    <a className="text-foreground/80 hover:text-primary transition-colors duration-300"
+                    key={key} href={item.href}>
+                        {item.name}
+                    </a>
                 ))}
             </div>
 
