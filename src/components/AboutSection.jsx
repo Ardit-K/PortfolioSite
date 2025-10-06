@@ -23,7 +23,7 @@ return <section id="about" className="py-24 px-4 relative">
                     <a href="#contact" className="cosmic-button">
                         Contact Me
                     </a>
-                    <a href="..\..\public\CS Resume Ardit Koti.pdf" className="cosmic-button px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
+                    <a href="..\..\dist\CS Resume Ardit Koti.pdf" className="cosmic-button px-6 py-2 rounded-full border border-primary hover:bg-primary/10 transition-colors duration-300">
                         Download CV
                     </a>
                 </div>
