@@ -14,10 +14,10 @@ return <section id="about" className="py-24 px-4 relative">
                     Passionate Software Developer & Lifelong Learner
                 </h3>
                 <p className="text-muted-foreground">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellendus atque omnis harum nostrum libero magni, hic reprehenderit assumenda modi consequuntur, commodi nam consectetur dignissimos amet! Non est minus veritatis et?
+                    I am passionate about Software Engineering and creating meaningful solutions.
                 </p>
                 <p className="text-muted-foreground">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam et earum, quod placeat ea laborum rerum quidem iure unde voluptatibus excepturi, dolorum architecto nemo deleniti illum! Animi reiciendis minus consequuntur?
+                    I pride myself on my attention to detail and impressive work ethic.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                     <a href="#contact" className="cosmic-button">
