@@ -14,10 +14,10 @@ return <section id="about" className="py-24 px-4 relative">
                     Passionate Software Developer & Lifelong Learner
                 </h3>
                 <p className="text-muted-foreground">
-                    I am passionate about Software Engineering and creating meaningful solutions.
+                    I am passionate about Software Engineering and Development.
                 </p>
                 <p className="text-muted-foreground">
-                    I pride myself on my attention to detail and impressive work ethic.
+                    I pride myself on my attention to detail and work-ethic.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                     <a href="#contact" className="cosmic-button">
@@ -37,7 +37,7 @@ return <section id="about" className="py-24 px-4 relative">
                         <div className="text-left">
                             <h4 className="font-semibold text-lg"> Web Development </h4>
                             <p className="text-muted-foreground">
-                                Creating Responsive websites and applications with modern technologies.
+                                Creating responsive websites and applications.
                             </p>
                         </div>
                     </div>
@@ -51,19 +51,6 @@ return <section id="about" className="py-24 px-4 relative">
                             <h4 className="font-semibold text-lg">Design</h4>
                             <p className="text-muted-foreground">
                                 Prioritizing efficient, user-friendly experiences.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div className="gradient-border p-6 card-hover">
-                    <div className="flex items-start gap-4">
-                        <div className="p-3 rounded-full bg-primary/10">
-                            <Briefcase className="h-6 w-6 text-primary"/>
-                        </div>
-                        <div className="text-left">
-                            <h4 className="font-semibold text-lg"> Project Management</h4>
-                            <p className="text-muted-foreground">
-                                Creating full-stack applications with practical use.
                             </p>
                         </div>
                     </div>
