@@ -63,7 +63,7 @@ export const Navbar = () => {
                 <div className="flex flex-col space-y-8 text-xl">
                     {navItems.map((item, key) => (
                         <a className="text-foreground/80 hover:text-primary transition-colors duration-300"
-                        key={key} href={item.href}>
+                        key={key} href={item.href} onClick={() => setIsMenuOpen((prev) => !prev)}>
                             {item.name}
                         </a>
                     ))}
